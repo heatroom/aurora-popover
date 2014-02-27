@@ -1,0 +1,14 @@
+{
+  "name": "aurora-popover",
+  "repo": "heatroom/aurora-popover",
+  "description": "Aurora Popover theme",
+  "version": "0.0.1",
+  "keywords": ["aurora", "popover", "theme"],
+  "dependencies": {
+    "heatroom/aurora-tip": "*"
+  },
+  "development": {},
+  "styles": [
+    "aurora-popover.css"
+  ]
+}
